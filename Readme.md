@@ -20,8 +20,8 @@
 <img align="left" alt="matlab" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="postman" width="22px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="unity" width="22px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-<img align="left" alt="unreal engine" width="22px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />
+<img align="left" alt="unity" width="22px" src="https://www.svgrepo.com/show/331626/unity.svg" />
+<img align="left" alt="unreal engine" width="22px" src="https://icon-library.com/images/unreal-engine-4-icon/unreal-engine-4-icon-13.jpg" />
 <img align="right" alt="anilstat" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilozrenk&show_icons=true&locale=en&layout=compact&theme=dark" />
 
 [linkedin]: https://www.linkedin.com/in/anil-ozrenk/
