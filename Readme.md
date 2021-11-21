@@ -6,8 +6,8 @@
 [<img align="left" alt="Anil Ozrenk | instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
 [<img align="left" alt="Anil Ozrenk | email" width="22px" src="https://www.svgrepo.com/show/56023/email.svg" />][email]
 
-<p></p>
-  
+<br></br>
+
 ## I'm a Student 👨‍🎓, at ITU. I am studying in the Department of Electrical Engineering🎓!
 - 🌱 I’m currently learning everything. 🤖
 - ⚡ I love caving, Caving is a nature sport. We are the first to see places where no one has set foot. and also I love playing guitar :guitar:.
