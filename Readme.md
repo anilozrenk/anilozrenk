@@ -1,7 +1,7 @@
 ### Hi there, I'm Anil Ozrenk 👋 
 
-\
-## Connect with me:[<img align="left" alt="Anil Ozrenk | Github" width="22px" src="https://www.svgrepo.com/show/217753/github.svg" />][github]
+## Connect with me:
+[<img align="left" alt="Anil Ozrenk | Github" width="22px" src="https://www.svgrepo.com/show/217753/github.svg" />][github]
 [<img align="left" alt="Anil Ozrenk | Linkedin" width="22px" src="https://www.svgrepo.com/show/134579/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anil Ozrenk | email" width="22px" src="https://www.svgrepo.com/show/56023/email.svg" />][email]
 [<img align="left" alt="Anil Ozrenk | instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
