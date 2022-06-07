@@ -22,6 +22,7 @@
 <img align="left" alt="python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="unity" width="22px" src="https://www.svgrepo.com/show/331626/unity.svg" />
 <img align="left" alt="unreal engine" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" />
+<img align="left" alt="unreal engine" width="22px" src="https://www.st.com/content/dam/ecosystems/stm32-gui/stm32-logo.png" />
 <img align="right" alt="anilstat" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilozrenk&show_icons=true&locale=en&layout=compact&theme=dark" />
 
 [linkedin]: https://www.linkedin.com/in/anil-ozrenk/
