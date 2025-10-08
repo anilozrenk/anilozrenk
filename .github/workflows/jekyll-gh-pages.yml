@@ -37,7 +37,7 @@ jobs:
       - name: new report
         run: |
           REPORT_NAME="report-${{github.run_number}}-${{github.run_attempt}}"
-          REPORT_PATH="reports/${{ github.ref_name }}/${{ github.run_id }}/${{ github.run_attempt }}"
+          REPORT_PATH="reports/${{ github.ref_name }}/${{ github.run_number }}/${{ github.run_attempt }}"
           mkdir -p $REPORT_PATH
           cat > $REPORT_PATH/index.html << EOF
           deneme1
@@ -52,7 +52,7 @@ jobs:
           <body>
               <h1>Test Run #${{ github.run_number }}</h1>
               <ul>
-                  <li><a href="${{ github.ref_name }}/${{ github.run_id }}/${{ github.run_attempt }}">Test Results</a></li>
+                  <li><a href="${{ github.ref_name }}/${{ github.run_number }}/${{ github.run_attempt }}">Test Results</a></li>
               </ul>
               <p>Commit: ${{ github.sha }}</p>
               <p>Branch: ${{ github.ref_name }}</p>
