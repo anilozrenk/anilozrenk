@@ -30,7 +30,7 @@ jobs:
 
   build:
     runs-on: ubuntu-latest
-    needs: create-report
+    # needs: create-report
     steps:
       - name: Checkout
         uses: actions/checkout@v4
